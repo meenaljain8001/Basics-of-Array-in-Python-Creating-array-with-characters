@@ -1,0 +1,1 @@
+# Basics-of-Array-in-Python-Creating-array-with-characters
